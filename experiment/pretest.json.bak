@@ -1,0 +1,29 @@
+[
+    {
+        "question": "By capillary tube method, viscosity is given by",
+        "qid": 1,
+        "option_a": "$$ \\mu = \\frac{\\rho g h \\bar{D}^4}{128 Q} $$",
+        "option_b": "$$ \\mu = \\frac{\\pi \\rho h \\bar{D}^4}{128 QL} $$",
+        "option_c": "$$ \\mu = \\frac{\\pi \\rho g h \\bar{D}}{128 QL} $$",
+        "option_d": "$$ \\mu = \\frac{\\pi \\rho g h \\bar{D}^4}{128 QL} $$",
+        "correct_option": "d"
+    },
+    {
+        "question": "Viscosity by falling sphere method is given by",
+        "qid": 2,
+        "option_a": "$$ \\frac{gd^2}{18U} (\\rho_s - \\rho_f) $$",
+        "option_b": "$$ \\frac{gd}{18U} (\\rho_s - \\rho_f) $$",
+        "option_c": "$$ \\frac{gd^2}{U} (\\rho_s - \\rho_f) $$",
+        "option_d": "$$ \\frac{gd^2}{18U} (\\rho_s) $$",
+        "correct_option": "a"
+    },
+    {
+        "question": "Viscosity by rotating cylinder method is given by",
+        "qid": 3,
+        "option_a": "$$ \\frac{(R_2 - R_1)}{\\pi R_1^2 \\omega [4HhR_2+R_1^2(R_2 - R_1)]} $$",
+        "option_b": "$$ \\frac{2(R_2 - R_1) h T}{\\pi [4HhR_2+R_1^2(R_2 - R_1)]} $$",
+        "option_c": "$$ \\frac{2(R_2 - R_1) h T}{\\pi R_1^2 \\omega [4HhR_2+R_1^2(R_2 - R_1)]} $$",
+        "option_d": "$$ \\frac{2(R_2 - R_1) h T}{\\pi R_1^2 \\omega} $$",
+        "correct_option": "c"
+    }
+]
