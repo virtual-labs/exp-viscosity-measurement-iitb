@@ -1,0 +1,20 @@
+[
+   {
+      "question": "The viscousity of an oil of specific gravity 0.82 is measured by capillary tube of diameter 47 mm. The difference of pressure head between two points 1.9 m apart is 0.48 m of water. The mass of oil collected in a measuring tank is 58 kg in 105 seconds. Find the viscousity of the oil.",
+      "qid": 1,
+      "option_a": "0.4051 Ns/m<sup>2</sup>",
+      "option_b": "0.3613 Ns/m<sup>2</sup>",
+      "option_c": "0.2051 Ns/m<sup>2</sup>",
+      "option_d": "0.0176 Ns/m<sup>2</sup>",
+      "correct_option": "b"
+   },
+   {
+      "question": "The viscousity of an oil of specific gravity 0.84 is measured by capillary tube of diameter 51 mm. The difference of pressure head between two points 2 m apart is 0.47 m of water. The mass of oil collected in a measuring tank is 58 kg in 101 seconds. Find the viscousity of the oil.",
+      "qid": 2,
+      "option_a": "0.4703 Ns/m<sup>2</sup>",
+      "option_b": "0.2311 Ns/m<sup>2</sup>",
+      "option_c": "0.5215 Ns/m<sup>2</sup>",
+      "option_d": "0.3225 Ns/m<sup>2</sup>",
+      "correct_option": "a"
+   }
+]
